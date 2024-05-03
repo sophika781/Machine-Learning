@@ -1,0 +1,1 @@
+Testing various implementations of multi-layer neural networks based on factors such as shuffling/unshuffling of data, number of layers and neurons, and activation functions. Also, includes designing a neural network to model the XOR function.
